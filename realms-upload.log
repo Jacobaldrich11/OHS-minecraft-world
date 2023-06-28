@@ -1,0 +1,3 @@
+Removed world/data/capabilities.dat: not used
+Removed world/serverconfig/forge-server.toml: not used
+Validated 24 files, 22 accepted, 2 rejected.
